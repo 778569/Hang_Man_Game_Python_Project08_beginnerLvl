@@ -18,5 +18,5 @@ A simple Hangman game implemented in Python. Challenge your word-guessing skills
 4. Run the game with Python:
 
    ```bash
-   python hangman.py
+   python main.py
 ****
